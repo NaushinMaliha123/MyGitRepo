@@ -1,4 +1,4 @@
 # MyGitRepo
 this is my repo.
 <br>
-Author-Tiasha
+Author-Tiasha(Naushin Maliha)
